@@ -1,0 +1,27 @@
+.textbook{
+    float: right;
+    border: 1px solid solid black;
+}
+
+ul li{
+    float: right;
+    width: 100px;
+    text-transform: capitalize;
+    list-style-type: none;
+    font-family: sans-serif;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    color:grey;
+}
+
+b{
+    color: grey;
+    border-bottom: 2px solid  grey;
+    font-weight: normal;
+}
+
